@@ -1,0 +1,18 @@
+body {
+  background-color: #f0f0f0;
+  color: #333;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+h1 {
+  font-size: 3rem;
+  font-weight: bold;
+  padding-top: 5rem;
+}
+
+img {
+  vertical-align: middle;
+  width: 100px;
+  height: 100px;
+}
